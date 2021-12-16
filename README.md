@@ -1,7 +1,7 @@
 # Appium Mobile Automation on Selendroid App With TestNG 
-|Id|Test case |Test Steps|Expected Results|
+|Id|Test case |Expected Results|
 |------|------|------|------|
-|1|Click EsButton|jjjjhkkhhk|Verify that EsButton is clickable|
-|2|Type to Box String and int datas|||
-|3||||
-|4||||
+|1|Click EsButton|User should click button and should be opened pop ap |
+|2|Type data(String-Int)to TextBox||User should write to TextBox |
+|3|Click Chromeİmage|ChromeImage button should be clickable|
+|4|Click goToHomeScreenButton|backButton should be clickable and user back to HomePage|
