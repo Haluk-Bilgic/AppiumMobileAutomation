@@ -1,7 +1,11 @@
 # Appium Mobile Automation on Selendroid App With TestNG 
-|Id|Test case |Expected Results|
+
+|Id|Test Case |Expected Results|
 |-------|-----|------|
 |1|Click EsButton|User should click button and should be opened pop ap |
 |2|Type data(String-Int)to TextBox|User should write to TextBox |
 |3|Click Chromeİmage|ChromeImage button should be clickable|
-|4|Click goToHomeScreenButton|backButton should be clickable and user back to HomePage|
+|4|Click goToHomeScreenButton|BackButton should be clickable and user back to HomePage|
+
+-I set up desired capabilities and pass the Android app-activity and app-package to Appium
+-I have tried to create this mobileTesting with TestNG Framework and generated BeforeMethod,AfterMethod and 4 Test case
