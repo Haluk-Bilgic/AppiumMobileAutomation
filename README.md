@@ -1,2 +1,3 @@
 # Appium Mobile Automation on Selendroid App With TestNG 
-Test case
+|Id|Test case |Test Steps|Expected Results|
+|--|--|--|--
