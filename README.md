@@ -7,6 +7,6 @@
 |3|Click Chromeİmage|ChromeImage button should be clickable|
 |4|Click goToHomeScreenButton|BackButton should be clickable and user back to HomePage|
 
-  *I set up desired capabilities and pass the Android app-activity and app-package to Appium.
-  *I have tried to create this mobileTesting with TestNG Framework and generated for setingUp BeforeMethod,for closing AfterMethod and 4 Test case.
-  *Normally I am expert on WebAutomation with selenium but in 2 days I have set up,learned Appium and tried to create this project.
+ * I set up desired capabilities and pass the Android app-activity and app-package to Appium.
+  * I have tried to create this mobileTesting with TestNG Framework and generated for setingUp BeforeMethod,for closing AfterMethod and 4 Test case.
+  * Normally I am expert on WebAutomation with selenium but in 2 days I have set up,learned Appium and tried to create this project.
