@@ -10,4 +10,4 @@
 * I set up desired capabilities and pass the Android app-activity and app-package to Appium.
 * I have tried to create this mobileTesting with TestNG Framework and generated for setingUp BeforeMethod,for closing AfterMethod and 4 Test case.
 * I have created excel classes for read data from Excel file
-* Normally I am expert on WebAutomation with selenium but in 2 days I could have set up,learned Appium and tried to create this project.I can do better.
+
